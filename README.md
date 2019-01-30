@@ -9,6 +9,8 @@ git clone 주소
 
 git add REANME.md(파일명)
 
+cd 
+
 git commit -m "updata README.md"
 
 git push -u origin master
